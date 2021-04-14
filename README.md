@@ -7,7 +7,9 @@ Intentando aprender los diferentes lenguajes de programacion.
 - Python 
 - css
 - HTML
-Tambien he adqeurido conocimiento entre otras cosas: 
+
+
+Tambien he adquerido conocimiento entre otras cosas: 
 -Marketing Digital 
 -Comercio Electronico 
 
